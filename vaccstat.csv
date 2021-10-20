@@ -1,0 +1,11 @@
+Vaccination Status,Type,Mall Entry?
+Fully Vaccinated,Employee,No
+Partially Vaccinated,Employee,No
+PartiallyVaccinated,Visitor,No
+Fully Vaccinated,Visitor,No
+Partially Vaccinated,Employee,No
+Not Vaccinated,Visitor,Yes
+Partially Vaccinated,Visitor,Yes
+Not Vaccinated,Visitor,No
+Not Vaccinated,Visitor,No
+Partially Vaccinated,Visitor,Yes
